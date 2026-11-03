@@ -1,2 +1,41 @@
-# trendsia-sistemas-agentes
-Projeto desenvolvido durante a formação TrendsIA, explorando conceitos de LLMs, agentes inteligentes e fluxos de IA generativa.
+# Sistemas Agentes - TrendsIA
+
+Repositório criado para registrar minha jornada na formação TrendsIA, reunindo atividades, experimentos e projetos desenvolvidos ao longo dos módulos de Sistemas Agentes.
+
+## Objetivos
+
+- Estudar Large Language Models (LLMs)
+- Desenvolver sistemas baseados em agentes
+- Explorar IA Generativa aplicada a problemas reais
+- Construir soluções práticas durante a formação
+
+## Estrutura
+
+### P0
+- Primeiro Fluxo LLM
+
+### P1
+- Em desenvolvimento
+  
+### P2
+- Em desenvolvimento
+  
+### P3
+- Em desenvolvimento
+  
+### P4
+- Em desenvolvimento
+
+## Tecnologias
+
+- Python
+- Git e GitHub
+- IA Generativa
+- LLMs
+
+## Sobre mim
+
+Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNIVESP, com experiência em educação, tecnologia e gestão escolar.
+
+🔗 GitHub: https://github.com/DaianeEP
+🔗 LinkedIn: https://www.linkedin.com/in/daianeep/
