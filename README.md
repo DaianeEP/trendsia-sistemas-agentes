@@ -35,9 +35,12 @@ Projeto: Classificador Inteligente de Mensagens
 - IA Generativa
 - LLMs
 
+## Status
+🚧 Em desenvolvimento
+
 ## Sobre mim
 
-Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNIVESP, com experiência em educação, tecnologia e gestão escolar.
+Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNIVESP, com experiência em educação, tecnologia e administração escolar.
 
 🔗 GitHub: https://github.com/DaianeEP
 🔗 LinkedIn: https://www.linkedin.com/in/daianeep/
