@@ -13,6 +13,7 @@ Repositório criado para registrar minha jornada na formação TrendsIA, reunind
 
 ### P0
 - Primeiro Fluxo LLM
+  
 Projeto: Classificador Inteligente de Mensagens
 
 ### P1
