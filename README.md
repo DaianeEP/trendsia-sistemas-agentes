@@ -45,4 +45,5 @@ Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNI
 AWS Certified Cloud Practitioner
 
 🔗 GitHub: https://github.com/DaianeEP
+
 🔗 LinkedIn: https://www.linkedin.com/in/daianeep/
