@@ -14,7 +14,7 @@ Repositório criado para registrar minha jornada na formação TrendsIA, reunind
 ### P0
 - Primeiro Fluxo LLM
   
-Projeto: Classificador Inteligente de Mensagens
+Projeto: [Classificador Inteligente de Mensagens](https://github.com/DaianeEP/classificador-inteligente-de-mensagens)
 
 ### P1
 - Em desenvolvimento
@@ -44,6 +44,6 @@ Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNI
 
 AWS Certified Cloud Practitioner
 
-🔗 GitHub: https://github.com/DaianeEP
+🔗 [GitHub](https://github.com/DaianeEP)
 
-🔗 LinkedIn: https://www.linkedin.com/in/daianeep/
+🔗 [LinkedIn](https://www.linkedin.com/in/daianeep/)
