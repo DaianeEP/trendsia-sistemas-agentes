@@ -41,6 +41,7 @@ Projeto: Classificador Inteligente de Mensagens
 ## Sobre mim
 
 Sou Daiane Eleutério Pereira, bacharelanda em Inteligência Artificial pela UNIVESP, com experiência em educação, tecnologia e administração escolar.
+
 AWS Certified Cloud Practitioner
 
 🔗 GitHub: https://github.com/DaianeEP
